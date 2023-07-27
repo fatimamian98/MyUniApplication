@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Uni Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="already_registered">Already registered? Log in</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="email">Email</string>
+    <string name="email_can_not_be_empty">email can not be empty!</string>
+    <string name="password_is_invalid">password is invalid!</string>
+    <string name="logout">Logout</string>
+
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">Doing at the sweet spot between aesthetics and elegance to give life to your brand.My opinion belong to nobody but myself.</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium bibendum sapien, ut euismod massa. Duis convallis sem sed turpis elementum auctor.</string>
+    <string name="profile">Profile</string>
+    <string name="start_stop_service">start/stop service</string>
+    <string name="notification_title">Location Service</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="realtime_database">Realtime DataBase</string>
+    <string name="send">send</string>
+    <string name="write_your_message">write your message</string>
+
+</resources>

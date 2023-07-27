@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160084177007",
+    "project_id": "emaple-eef1c",
+    "storage_bucket": "emaple-eef1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160084177007:android:35a7d668fbf242dca85d9a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160084177007-0gudl6rfo6loqovr5nko75g8fskmaluq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "6dd9fdad4c73f750bcd198454cae88ac704fd15c"
+          }
+        },
+        {
+          "client_id": "160084177007-1rq79i4ovs37pvh0v202lhhakj7sppnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjxZJm91_qcAVoumOM7_GAzaMq0_aGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160084177007-1rq79i4ovs37pvh0v202lhhakj7sppnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
